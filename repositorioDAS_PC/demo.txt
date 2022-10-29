@@ -1,2 +1,6 @@
 "Hello Git World"
 "Hello Again"
+
+var x = 0;
+if (x=1)
+{bla }
